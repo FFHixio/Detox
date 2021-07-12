@@ -33,7 +33,7 @@
     "eslint-plugin-node": "^6.0.1",
     "jest": "25.1.x",
     "mockdate": "^2.0.1",
-    "prettier": "1.7.0",
+    "prettier": "1.19.1",
     "react-native": "0.60.x",
     "wtfnode": "^0.8.0"
   },
